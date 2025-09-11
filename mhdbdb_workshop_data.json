@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "source": "MHDBDB TEI Repository - https://github.com/DigitalHumanitiesCraft/mhdbdb-tei-only",
+    "description": "Preprocessed bias-relevant terms from Middle High German Database",
+    "version": "1.0",
+    "date": "2025-01-27",
+    "total_entries": 24,
+    "unique_lemmata": 12
+  },
+  "workshop_entries": [
+    {
+      "lemma": "saracîn",
+      "word": "sarazîn", 
+      "meaning": "Angehöriger eines islamischen Volkes; Heide",
+      "concept": "ethnische_bezeichnung",
+      "source_text": "Parzival",
+      "source_author": "Wolfram von Eschenbach",
+      "filename": "parzival_wolfram.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "saracîn",
+      "word": "sarracîn",
+      "meaning": "Angehöriger eines islamischen Volkes; Heide", 
+      "concept": "ethnische_bezeichnung",
+      "source_text": "Willehalm",
+      "source_author": "Wolfram von Eschenbach",
+      "filename": "willehalm_wolfram.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "vrouwe",
+      "word": "vrouwe",
+      "meaning": "Herrin, edle Dame; Ehefrau",
+      "concept": "sozialer_stand",
+      "source_text": "Iwein",
+      "source_author": "Hartmann von Aue",
+      "filename": "iwein_hartmann.tei.xml", 
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    },
+    {
+      "lemma": "vrouwe",
+      "word": "vrowen",
+      "meaning": "Herrin, edle Dame; Ehefrau",
+      "concept": "sozialer_stand", 
+      "source_text": "Erec",
+      "source_author": "Hartmann von Aue",
+      "filename": "erec_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    },
+    {
+      "lemma": "krüppel",
+      "word": "krüppel",
+      "meaning": "körperlich beeinträchtigte Person",
+      "concept": "körperliche_eigenschaft",
+      "source_text": "Gregorius", 
+      "source_author": "Hartmann von Aue",
+      "filename": "gregorius_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "behinderung"
+    },
+    {
+      "lemma": "heiden",
+      "word": "heiden",
+      "meaning": "Nicht-Christ; Anhänger einer anderen Religion",
+      "concept": "religiöse_bezeichnung",
+      "source_text": "Rolandslied",
+      "source_author": "Pfaffe Konrad", 
+      "filename": "rolandslied_konrad.tei.xml",
+      "period": "12. Jahrhundert",
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "heiden",
+      "word": "heidenen",
+      "meaning": "Nicht-Christ; Anhänger einer anderen Religion",
+      "concept": "religiöse_bezeichnung",
+      "source_text": "Nibelungenlied",
+      "source_author": "unbekannt",
+      "filename": "nibelungenlied.tei.xml",
+      "period": "12.-13. Jahrhundert", 
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "jude",
+      "word": "jude",
+      "meaning": "Angehöriger der jüdischen Religion",
+      "concept": "religiöse_bezeichnung",
+      "source_text": "Marienleben", 
+      "source_author": "Bruder Philipp",
+      "filename": "marienleben_philipp.tei.xml",
+      "period": "13. Jahrhundert",
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "jude",
+      "word": "juden",
+      "meaning": "Angehöriger der jüdischen Religion",
+      "concept": "religiöse_bezeichnung",
+      "source_text": "Passional",
+      "source_author": "unbekannt",
+      "filename": "passional.tei.xml",
+      "period": "13. Jahrhundert",
+      "bias_category": "ethnisch_religiös"
+    },
+    {
+      "lemma": "wîp",
+      "word": "wîp",
+      "meaning": "Frau; Ehefrau", 
+      "concept": "geschlecht",
+      "source_text": "Nibelungenlied",
+      "source_author": "unbekannt",
+      "filename": "nibelungenlied.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    },
+    {
+      "lemma": "wîp",
+      "word": "wîbe",
+      "meaning": "Frau; Ehefrau",
+      "concept": "geschlecht",
+      "source_text": "Kudrun",
+      "source_author": "unbekannt", 
+      "filename": "kudrun.tei.xml",
+      "period": "13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    },
+    {
+      "lemma": "ellende",
+      "word": "ellende",
+      "meaning": "Fremde, Verbannung; Elend",
+      "concept": "zustand_ort",
+      "source_text": "Kudrun",
+      "source_author": "unbekannt",
+      "filename": "kudrun.tei.xml", 
+      "period": "13. Jahrhundert",
+      "bias_category": "fremdheit"
+    },
+    {
+      "lemma": "ellende",
+      "word": "ellendic",
+      "meaning": "Fremde, Verbannung; Elend",
+      "concept": "zustand_ort",
+      "source_text": "Iwein",
+      "source_author": "Hartmann von Aue",
+      "filename": "iwein_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "fremdheit"
+    },
+    {
+      "lemma": "ritter",
+      "word": "ritter",
+      "meaning": "Angehöriger des Ritterstandes; Krieger zu Pferde",
+      "concept": "sozialer_stand",
+      "source_text": "Erec",
+      "source_author": "Hartmann von Aue",
+      "filename": "erec_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert", 
+      "bias_category": "sozialer_stand"
+    },
+    {
+      "lemma": "ritter",
+      "word": "ritterlîch",
+      "meaning": "Angehöriger des Ritterstandes; Krieger zu Pferde",
+      "concept": "sozialer_stand",
+      "source_text": "Parzival",
+      "source_author": "Wolfram von Eschenbach",
+      "filename": "parzival_wolfram.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "sozialer_stand"
+    },
+    {
+      "lemma": "pfaffe",
+      "word": "pfaffe",
+      "meaning": "Geistlicher, Priester",
+      "concept": "religiöser_stand",
+      "source_text": "Der arme Heinrich",
+      "source_author": "Hartmann von Aue",
+      "filename": "armer_heinrich.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "sozialer_stand"
+    },
+    {
+      "lemma": "bûr",
+      "word": "bûr",
+      "meaning": "Bauer, Landmann",
+      "concept": "sozialer_stand",
+      "source_text": "Meier Helmbrecht",
+      "source_author": "Wernher der Gärtner",
+      "filename": "helmbrecht_wernher.tei.xml", 
+      "period": "13. Jahrhundert",
+      "bias_category": "sozialer_stand"
+    },
+    {
+      "lemma": "bûr",
+      "word": "bûren",
+      "meaning": "Bauer, Landmann",
+      "concept": "sozialer_stand", 
+      "source_text": "Der Ring",
+      "source_author": "Heinrich Wittenwiler",
+      "filename": "ring_wittenwiler.tei.xml",
+      "period": "14.-15. Jahrhundert",
+      "bias_category": "sozialer_stand"
+    },
+    {
+      "lemma": "wilde",
+      "word": "wilde",
+      "meaning": "unzivilisiert; fremd; unbekannt",
+      "concept": "eigenschaft",
+      "source_text": "Tristan",
+      "source_author": "Gottfried von Straßburg",
+      "filename": "tristan_gottfried.tei.xml",
+      "period": "13. Jahrhundert",
+      "bias_category": "fremdheit"
+    },
+    {
+      "lemma": "wilde",
+      "word": "wildnisse",
+      "meaning": "unzivilisiert; fremd; unbekannt",
+      "concept": "eigenschaft",
+      "source_text": "Parzival",
+      "source_author": "Wolfram von Eschenbach", 
+      "filename": "parzival_wolfram.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "fremdheit"
+    },
+    {
+      "lemma": "stumm",
+      "word": "stumm",
+      "meaning": "nicht sprechen könnend; schweigsam",
+      "concept": "körperliche_eigenschaft",
+      "source_text": "Lanzelet",
+      "source_author": "Ulrich von Zatzikhoven",
+      "filename": "lanzelet_ulrich.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "behinderung"
+    },
+    {
+      "lemma": "blint",
+      "word": "blint",
+      "meaning": "blind; ohne Sehvermögen",
+      "concept": "körperliche_eigenschaft",
+      "source_text": "Gregorius",
+      "source_author": "Hartmann von Aue", 
+      "filename": "gregorius_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "behinderung"
+    },
+    {
+      "lemma": "maget",
+      "word": "maget",
+      "meaning": "Jungfrau; unverheiratete Frau",
+      "concept": "geschlecht",
+      "source_text": "Kudrun",
+      "source_author": "unbekannt",
+      "filename": "kudrun.tei.xml",
+      "period": "13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    },
+    {
+      "lemma": "maget",
+      "word": "megetîn",
+      "meaning": "Jungfrau; unverheiratete Frau", 
+      "concept": "geschlecht",
+      "source_text": "Erec",
+      "source_author": "Hartmann von Aue",
+      "filename": "erec_hartmann.tei.xml",
+      "period": "12.-13. Jahrhundert",
+      "bias_category": "geschlecht_stand"
+    }
+  ]
+} 

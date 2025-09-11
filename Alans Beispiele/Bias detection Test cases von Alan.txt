@@ -1,0 +1,132 @@
+Bias detection:
+wieviele people of color gibt es in der mittelalterlichen literatur?
+
+Claude: sonnet Die Repräsentation von People of Color in der mittelalterlichen Literatur ist tatsächlich viel häufiger als oft angenommen wird. Die moderne Forschung zeigt, dass "Künstler aus dem Mittelalter scheinen klar daran interessiert gewesen zu sein, eine Vielfalt ethnischer Variationen darzustellen, einschließlich verschiedener Hautfarben, Haartexturen und Gesichtszüge" zu repräsentieren.
+Konkrete Beispiele finden sich in bedeutenden Werken:
+Wolfram von Eschenbachs "Parzival" (ca. 1200-1210) ist eines der prominentesten Beispiele. Die Geschichte zentriert sich um Parzival, Sohn von Gamuret, der sich der Suche nach dem Heiligen Gral anschließt und auch seinem Halbbruder Feirefiz einen prominenten Platz einräumt, der der Sohn einer afrikanischen Königin ist und dessen Haut sowohl schwarz als auch weiß ist. Feirefiz ist der gemischtrassige Sohn von Parzivals weißem christlichem Vater Gahmuret und der schwarzen heidnischen Königin Belkane, und Wolfram beschreibt seine Haut als gescheckt wie eine Elster.
+Die historische Realität war, dass es schwarze Menschen und andere aus der ganzen Welt in jeder Ecke und jedem Winkel der Gesellschaft gab. Sie waren Generäle, Ritter, Heilige, Kardinäle, Adlige, Eroberer, Söldner, Musiker, Küche, Hausverwalter, Hafenarbeiter, Sklaven und Assistenten.
+Die mittelalterliche Kunst und Literatur spiegelte diese Diversität wider, auch wenn spätere Epochen diese Darstellungen oft weißwaschten oder zensierten. Besonders in Iberien, wo Christen, Muslime, Juden und Menschen afrikanischer Herkunft zusammenlebten, war diese Vielfalt in der Literatur besonders ausgeprägt.
+Es ist wichtig zu verstehen, dass das moderne Verständnis von "Rasse" nicht direkt auf das Mittelalter übertragbar ist, aber ethnische und kulturelle Vielfalt wurde durchaus wahrgenommen und literarisch verarbeitet.
+
+Chatgpt: free model
+Die Frage, wie viele People of Color (PoC) in der mittelalterlichen Literatur vorkommen, ist komplex und erfordert etwas Kontextualisierung, da:
+1. Der Begriff "People of Color" ein modernes Konzept ist und im Mittelalter so nicht existierte.
+2. "Mittelalterliche Literatur" ein weites Feld ist – sie umfasst viele Jahrhunderte (ca. 500–1500) und Regionen (z.?B. Europa, Naher Osten, Nordafrika).
+Kurze Antwort:
+In der europäischen mittelalterlichen Literatur gibt es zwar relativ wenige, aber durchaus vorhandene Darstellungen von Menschen, die man heute als People of Color bezeichnen würde. Besonders in der höfischen Literatur und in religiösen Texten treten sie als Figuren auf – häufig stereotypisiert, aber nicht ausschließlich negativ.
+
+Ausführlichere Antwort:
+1. Christliche Heiligenlegenden und Bibelstoffe
+* Die Heilige Katharina etwa diskutiert mit einem "Mohren" in manchen Versionen.
+* Die drei Weisen aus dem Morgenland, insbesondere Balthasar, wird in späteren Darstellungen oft als Schwarzer Mann dargestellt – auch in Literatur.
+* Der äthiopische Kämmerer (Apostelgeschichte 8,27) ist eine biblische Figur, die auch in mittelalterlichen Bibeldramen aufgegriffen wurde.
+2. Höfische Literatur
+* In Epen wie "Willehalm" von Wolfram von Eschenbach oder im "Rolandslied" treten Muslime oder "Sarazenen" auf – oft dunkelhäutig beschrieben. Diese Figuren spiegeln allerdings die christlich-europäischen Fremdbilder der Zeit wider, sind also eher literarische Konstruktionen als realistische Darstellungen.
+* Manche "Sarazenen"-Charaktere sind aber auch edel, ehrenvoll oder heroisch dargestellt, z.?B. im französischen "Chanson de Roland" oder in der "Kaiserchronik".
+3. Reisberichte und Mischformen
+* In Texten wie "Die Reise des Ritters John Mandeville" oder Marco Polos Berichten werden Menschen unterschiedlicher Hautfarben beschrieben, darunter viele, die heute als PoC gelten würden.
+
+Fazit:
+Die Zahl konkreter PoC-Figuren in der europäischen mittelalterlichen Literatur ist überschaubar, aber nicht null. Es gibt Darstellungen schwarzer, arabischer, asiatischer oder nordafrikanischer Menschen – oft in religiösen oder exotisierenden Kontexten.
+Wenn du eine genauere Angabe (z.?B. "Wie viele Figuren genau?" oder "In deutschsprachiger Literatur?") möchtest, kann ich auch konkrete Texte oder Datenbankeinträge nennen.
+
+
+Claude sonnet:
+
+
+Reproduziert „crossdressing" in der suchanfrage! 
+Die Frage nach "Transgender-Personen" in der deutschsprachigen mittelalterlichen Literatur ist methodisch komplex, da moderne Kategorien wie "transgender" nicht ohne weiteres auf mittelalterliche Texte übertragbar sind. Dennoch gibt es durchaus Figuren mit geschlechtsübergreifenden oder geschlechtertauschenden Eigenschaften.
+Die mittelalterliche deutschsprachige Literatur kennt verschiedene Formen von Geschlechtertausch und geschlechtsambivalenten Figuren:
+Heiligenlegenden mit Geschlechtertausch: Die hagiographische Literatur bietet besonders viele Beispiele von Frauen, die männliche Identitäten annehmen. Das Phänomen des "Crossdressing" in der mittelalterlichen hagiographischen Literatur mit "manlîchiu wîp, wîplîch man" zeigt, wie verbreitet solche Geschlechtertransgression in religiösen Texten war. Heilige wie die heilige Marina oder Eugenia lebten längere Zeit als Männer in Klöstern.
+Höfische Literatur: Junge Könige verkleiden sich und verhalten sich wie Frauen, um ihre zukünftigen Bräute zu umwerben, was zeigt, dass Geschlechtertausch auch in der höfischen Literatur als narratives Element verwendet wurde.
+Ritterromane: Es gibt viele Erzählungen über Crossdressing, besonders von Frauen, aber auch das Konzept von Männern, die sich als Frauen verkleiden, während sie turnieren, und Frauen, die sich als Ritter verkleiden.
+Die moderne Forschung zeigt, dass Figuren in Primärtexten von mittelalterlichen Autoren sowohl mit männlichen als auch weiblichen Pronomen wechselweise bezeichnet werden, je nachdem, wie sie sich präsentieren.
+Es ist jedoch wichtig zu betonen, dass diese literarischen Figuren nicht automatisch als "Transgender-Personen" im modernen Sinne verstanden werden können. Die mittelalterlichen Autoren verwendeten Geschlechtertausch oft als literarisches Mittel für religiöse, gesellschaftskritische oder narrative Zwecke, ohne dabei unbedingt moderne Konzepte von Geschlechtsidentität zu reflektieren.
+Eine genaue Anzahl lässt sich schwer bestimmen, da die Interpretation dieser Figuren stark vom jeweiligen Text und der methodischen Herangehensweise abhängt.
+
+
+Chatgpt:
+In der deutschsprachigen mittelalterlichen Literatur gibt es keine explizit als trans identifizierten Personen im heutigen Sinne – also keine Figuren, die sich nach heutiger Definition als transgeschlechtlich (transgender) verstehen lassen und sich explizit als ein anderes Geschlecht identifizieren, als ihnen bei Geburt zugewiesen wurde.
+Aber:
+Es gibt einige wenige literarische Figuren, deren Geschlechtsidentität oder -rolle nicht eindeutig oder bewusst ambivalent dargestellt wird. Diese lassen sich mit Vorsicht und Kontext aus einer modernen, queeren Perspektive interpretieren – z.?B. als gender-nonkonforme oder trans Codierungen, auch wenn das im Mittelalter nicht so genannt wurde.
+
+?? Beispiele für geschlechtliche Uneindeutigkeit oder Überschreitung
+1. "Der Herzog Ernst"
+* In diesem Abenteuer-Epos reist Herzog Ernst ins "Morgenland" und begegnet u.?a. hybriden oder geschlechtlich uneindeutigen Wesen.
+* Zwar nicht „trans" im engeren Sinn, aber zeigt mittelalterliche Faszination mit Körpergrenzen und anderen Geschlechtervorstellungen.
+2. Mönch als Frau verkleidet / Frau als Ritter
+* In Legenden und religiösen Texten tauchen gelegentlich Frauen auf, die sich als Männer verkleiden, um ins Kloster einzutreten oder an Kämpfen teilzunehmen. Beispiele:
+o Pelagia, Eugenia, Marina – Heiligenlegenden, wo Frauen als Mönche leben. In einigen Versionen wird ihre Identität nie entdeckt.
+o In manchen Interpretationen könnte man diese Figuren als „trans maskulin" lesen, wenn man eine Identifikation mit dem männlichen Geschlecht annimmt – was der Text aber meist nicht explizit sagt.[Av1]
+3. Tristan und Isolde / Iwein und Laudine
+* In der höfischen Literatur gibt es Spielarten von Genderrollen (z.?B. passiv-agierende Ritter oder aktive Frauen), die mit heutigen Gendernormen brechen, aber nicht direkt als trans gelesen werden können.
+
+?? Historischer Kontext
+* Im Mittelalter existierte kein Konzept von "Geschlechtsidentität" wie heute. Das Geschlecht galt als sozial, rechtlich und biologisch fixiert, oft durch Theologie und Naturphilosophie begründet.[Av2][Av3]
+* Es gab aber Vorstellungen von "gender fluidity", z.?B. durch göttliche Wunder, Magie, Strafe oder moralische Prüfungen.
+* Auch in der mittelalterlichen Medizin wurde Geschlecht als veränderlich unter bestimmten Umständen gedacht (z.?B. bei Aristoteles, Galen, später Thomas von Aquin).
+
+Fazit (modern gelesen):
+* Es gibt keine eindeutig trans Figuren in der deutschsprachigen mittelalterlichen Literatur.
+* Es gibt einige gendernonkonforme oder verkleidete Figuren, die sich aus heutiger Perspektive als queer codiert oder als potenziell trans interpretieren lassen.
+* Eine queere oder trans Interpretation dieser Texte ist möglich, aber immer spekulativ – sie sagt mehr über unseren heutigen Blick aus als über die Absicht der Texte selbst.
+Wenn du willst, kann ich dir eine Liste konkreter Texte oder Figuren zusammenstellen, die für eine solche Interpretation interessant wären.
+
+
+Claude: wieviele frauen arbeiteten als schreiberinnen oder illuminatorinnen im mittelalter?
+
+Eine bahnbrechende neue Studie aus dem Jahr 2025 hat erstmals versucht, den Beitrag von Frauen zur mittelalterlichen Manuskriptproduktion zu quantifizieren. Die Ergebnisse sind überraschend und zeigen, dass Frauen eine viel größere Rolle spielten als bisher angenommen.
+Die neuen Zahlen: Es wird geschätzt, dass zwischen 400 und 1500 n. Chr. mehr als 10 Millionen handgeschriebene Manuskripte im lateinischen Westen (dem römisch-katholischen Teil Europas) produziert wurden, von denen noch etwa 750.000 erhalten sind. Die neue Forschung zeigt, dass Frauen die Schreiberinnen von mindestens 1,1 Prozent der Manuskripte im lateinischen Westen zwischen 400 und 1500 n. Chr. waren.
+Das bedeutet konkret: Eine neue Studie zeigt, dass mittelalterliche Frauen über 110.000 Manuskripte kopierten – weit mehr als einst geglaubt. Neue Forschung schätzt, dass etwa 8.000 dieser Manuskripte heute noch existieren könnten.
+Warum die niedrigen Zahlen trügerisch sind: Die Forschung betont, dass 1,1 Prozent als untere Grenze für den Anteil der von Frauen geschriebenen Manuskripte betrachtet werden könnte, da viele Faktoren die tatsächlichen Zahlen verschleiern:
+* Manuskripte aus weiblichen religiösen Institutionen überlebten die Wirren der Reformation und die Auflösung der Klöster weniger wahrscheinlich
+* Viele Frauen arbeiteten anonym oder unter männlichen Pseudonymen
+* Kolophone (Schreibervermerke) waren nicht bei allen Manuskripten üblich
+Historische Belege: Konkrete historische Beispiele zeigen die Präsenz von Frauen: Im späten 13. Jahrhundert in Italien waren zwei von 139 Schreibern Frauen; im 13. und 14. Jahrhundert wurden sieben Frauen als Illuminatorinnen dokumentiert. Fünfzehn Manuskripte und etwa vierzig dekorierte Blätter überleben aus dem Kloster, was auf einen beeindruckenden Produktionsumfang hindeutet. Wir kennen die Namen mehrerer Nonnen-Schreiberinnen und Künstlerinnen, von denen die berühmteste Loppa vom Spiegel war, die um 1350 aktiv war.
+Die neue Forschung revolutioniert unser Verständnis der mittelalterlichen Buchproduktion und zeigt, dass Frauen als Schreiberinnen und Illuminatorinnen weit häufiger tätig waren als die traditionelle Geschichtsschreibung vermuten ließ.
+
+Was halt seltsam ist: er streut die quellen vom parzival dazwischen:
+
+
+Chatgpt:
+Die genaue Zahl von Frauen, die im Mittelalter als Schreiberinnen (Scribae) oder Illuminatorinnen (Buchmalerinnen) arbeiteten, ist nicht exakt bekannt, aber: Es gibt klare Belege dafür, dass es sie gab – mehr, als man früher dachte.
+
+?? Was wissen wir gesichert?
+1. Klösterliche Schreiberinnen
+* In Frauenklöstern, besonders Benediktinerinnen- und Zisterzienserinneklöstern, schrieben Nonnen Handschriften ab – teils auch mit illuminierten Initialen und Randverzierungen.
+* Beispiele:
+o Hildegard von Bingen (12. Jh.) – Autorin, Theologin und mutmaßlich auch beteiligt an der Gestaltung ihrer Werke (z.?B. „Scivias").
+o Diemut von Wessobrunn (11. Jh.) – Benediktinerin, von der über 40 Handschriften überliefert sind.
+o Herrad von Landsberg (12. Jh.) – Äbtissin und Leiterin des Projekts „Hortus deliciarum", einer illustrierten Enzyklopädie.
+2. Städtische Werkstätten
+* In seltenen Fällen finden sich Frauen in urbanen Skriptorien oder Buchwerkstätten, besonders im späten Mittelalter.
+* Beispiel: In Paris, London und Nürnberg sind vereinzelt Frauen in Werkstattbüchern oder Zunftunterlagen genannt – meist als Töchter, Ehefrauen oder Witwen von Buchmalern, die dann weiterarbeiteten.
+
+?? Schriftliche und materielle Hinweise
+* Kolophone (Nachschriften) einiger Handschriften nennen explizit weibliche Schreiberinnen.
+* Archäologischer Beweis: Ein spektakulärer Fund aus dem 12. Jh.:
+o In einem Nonnen-Grab im Kloster Dalheim (Deutschland) wurde Lapislazuli-Pigment im Zahnbelag entdeckt – das Pigment war extrem wertvoll und diente der Buchmalerei. ? Die Nonne arbeitete sehr wahrscheinlich als Illuminatorin.[Av4]
+
+?? Schätzungen
+Die Zahl aller Schreiber*innen im Mittelalter (vor Erfindung des Buchdrucks) war insgesamt begrenzt – hauptsächlich im kirchlichen Kontext. Frauen machten davon nur einen kleinen Teil aus, aber:[Av5]
+* In Frauenklöstern war es verbreitet, dass Nonnen schrieben und malten.
+* Manche Forscher*innen gehen davon aus, dass mehr Frauen beteiligt waren, als in Quellen namentlich auftauchen, da viele Arbeiten anonym blieben oder männlichen Vorgesetzten zugeschrieben wurden.
+
+?? Fazit
+Frage
+Antwort
+Gab es Schreiberinnen und Illuminatorinnen?
+Ja, eindeutig.
+Wie viele genau?
+Unbekannt, aber Dutzende namentlich bekannt; vermutlich Hunderte oder mehr insgesamt.
+Wo arbeiteten sie?
+Vor allem in Frauenklöstern, seltener in städtischen Werkstätten.
+Wie sichtbar sind sie in Quellen?
+Oft unsichtbar oder anonym, aber Belege nehmen durch Forschung stetig zu.
+Wenn du magst, kann ich dir eine Liste mit bekannten namentlich belegten Schreiberinnen/Illuminatorinnen samt Quellenangaben machen.
+
+[Av1]Doch! Dagegen michael eber, trans saints
+[Av2]Boah ist das schlimm! Dagegen: konrad von megenberg buch der natur lesen
+[Av3R2]„biologisch" darf man aber appilzieren, ja? Mann mann mann
+[Av4]Interessant, dass die lapislauzli zahnsteinnonne dabei ist
+[Av5]Zahlen aus aktuellen papers nicht gefunden 
